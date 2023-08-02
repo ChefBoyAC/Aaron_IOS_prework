@@ -2,24 +2,24 @@
 
 Submitted by: **Aaron Channer**
 
-**IOS Prework** is an app that... [] 
+**IOS Prework** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**<iframe src="https://giphy.com/embed/wpB3kz4VDJQz9soDa5" width="253" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wpB3kz4VDJQz9soDa5">via GIPHY</a></p>**
 
-<!-- Replace this with whatever GIF tool you used! -->
+**[Giphy Capture]([https://giphy.com))**
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -27,14 +27,16 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
+1. Linkedln (Linkedln Learning, Linkedln Networking)
+2. Snapchat(Face filters, Snapchat Stories) 
+3. Facebook(Facebook Market, Messenger) 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Figuring out how to make the button change the background 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Aaron Channer]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
